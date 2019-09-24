@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/watyouwantusee/static/css/main.d7744d2a.chunk.css",
+    "main.css": "/watyouwantusee/static/css/main.f3a67513.chunk.css",
     "main.js": "/watyouwantusee/static/js/main.cbfc2bd9.chunk.js",
     "main.js.map": "/watyouwantusee/static/js/main.cbfc2bd9.chunk.js.map",
     "runtime-main.js": "/watyouwantusee/static/js/runtime-main.92af20ca.js",
@@ -8,9 +8,9 @@
     "static/js/2.17614360.chunk.js": "/watyouwantusee/static/js/2.17614360.chunk.js",
     "static/js/2.17614360.chunk.js.map": "/watyouwantusee/static/js/2.17614360.chunk.js.map",
     "index.html": "/watyouwantusee/index.html",
-    "precache-manifest.a4427fa147dacc1d6b8486a211aae6af.js": "/watyouwantusee/precache-manifest.a4427fa147dacc1d6b8486a211aae6af.js",
+    "precache-manifest.9ab32fb5c4044ca84e0aa021e565f7b3.js": "/watyouwantusee/precache-manifest.9ab32fb5c4044ca84e0aa021e565f7b3.js",
     "service-worker.js": "/watyouwantusee/service-worker.js",
-    "static/css/main.d7744d2a.chunk.css.map": "/watyouwantusee/static/css/main.d7744d2a.chunk.css.map",
+    "static/css/main.f3a67513.chunk.css.map": "/watyouwantusee/static/css/main.f3a67513.chunk.css.map",
     "static/media/smiley.svg": "/watyouwantusee/static/media/smiley.3ac4b3c3.svg"
   }
 }
