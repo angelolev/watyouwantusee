@@ -26,7 +26,7 @@ class App extends Component {
 
     axios
       .get(
-        "http://api.giphy.com/v1/gifs/search?q=" +
+        "https://api.giphy.com/v1/gifs/search?q=" +
           this.state.searchText +
           "&api_key=" +
           apiKey +
